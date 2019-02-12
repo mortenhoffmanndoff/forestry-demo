@@ -1,0 +1,14 @@
+---
+label: Test
+hide_body: false
+is_partial: false
+fields:
+- type: file
+  name: billede
+  label: billede
+  description: til banner
+  config:
+    maxSize: '2'
+- type: text
+  name: overskrift
+  label: overskrift
