@@ -1,0 +1,13 @@
+---
+label: bannertext
+hide_body: false
+is_partial: true
+display_field: banner
+fields:
+- type: field_group
+  name: banner
+  label: banner
+  fields:
+  - type: file
+    name: billede
+    label: billede
