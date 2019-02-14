@@ -1,0 +1,13 @@
+---
+label: fullimage
+hide_body: false
+is_partial: true
+display_field: fullimage2
+fields:
+- type: field_group
+  name: fullimage2
+  label: fullimage2
+  fields:
+  - type: file
+    name: fill
+    label: fill
