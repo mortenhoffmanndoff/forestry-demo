@@ -1,10 +1,22 @@
 ---
-label: Testa
+label: Bbaner
 hide_body: false
 is_partial: true
-display_field: test
+display_field: bbanner
 fields:
-- type: include
-  name: test
-  label: test
-  template: test
+- type: blocks
+  name: bbanner
+  label: bbanner
+  description: Banner
+- type: field_group
+  name: bbaner
+  label: bbaner
+  description: bbaner
+  fields:
+  - type: file
+    name: bbanerimage
+    label: bbanerimage
+  - type: text
+    name: bbanertext
+    label: bbanertext
+    description: bbanertext
