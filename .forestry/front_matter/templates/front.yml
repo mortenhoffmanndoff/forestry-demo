@@ -1,0 +1,10 @@
+---
+label: front
+hide_body: false
+is_partial: false
+fields:
+- type: blocks
+  template_types:
+  - fullimage
+  label: '1'
+  name: '1'
