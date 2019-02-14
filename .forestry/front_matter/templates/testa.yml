@@ -1,0 +1,10 @@
+---
+label: Testa
+hide_body: false
+is_partial: true
+display_field: test
+fields:
+- type: include
+  name: test
+  label: test
+  template: test
