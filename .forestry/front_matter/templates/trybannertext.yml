@@ -1,0 +1,7 @@
+---
+label: trybannertext
+hide_body: false
+is_partial: false
+fields:
+- type: include
+  template: bannertext
